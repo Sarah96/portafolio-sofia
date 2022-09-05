@@ -1,7 +1,0 @@
-@mixin skill-bar-theme($theme) {
-    $surface: map-get($theme, surface);
-
-    .skill-bar__bg {
-        background-color: $surface;
-    }
-}

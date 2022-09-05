@@ -1,5 +1,0 @@
-@import "page-404/page-404.theme";
-
-@mixin pages-theme($theme) {
-    @include page-404-theme($theme);
-}

@@ -1,5 +1,0 @@
-@import "typography/typography.theme";
-
-@mixin content-theme($theme) {
-    @include typography-theme($theme);
-}

@@ -1,8 +1,0 @@
-@mixin services-theme($theme) {
-    $surface: map-get($theme, surface);
-
-    .service__box {
-        background-color: $surface;
-        @include bg-transition;
-    }
-}
